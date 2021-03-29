@@ -3,7 +3,7 @@
     margin: 0;
 }
 .border-sample{
-    border: rgb(252, 51, 51);
+    border: thin solid red;
 }
 header{
     background-color: #fd0606;
@@ -19,7 +19,7 @@ body{
 footer{
    background-color: #f50606;
    color: rgb(252, 249, 248);
-   font-size: 24pt;
+   font-size: 16pt;
 }
 .container{
    padding: 20px;
