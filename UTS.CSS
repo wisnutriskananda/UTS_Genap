@@ -3,7 +3,7 @@
     margin: 0;
 }
 .border-sample{
-    border: thin solid red;
+    border: thin solid white;
 }
 header{
     background-color: #fd0606;
@@ -13,7 +13,7 @@ header{
 }
 body{
     font-family: 'New Tegomin', sans-serif;
-    color: #0f0f0f;
+    color: #111111;
     font-size: 16pt;
 }
 footer{
@@ -38,6 +38,8 @@ section{
     margin-bottom: 20px;
     padding: 15px;
     font-size: 16px;
+    width:250px;
+    background-color: rgb(255, 9, 9)
 }
 .section-container{
     display: flex;
